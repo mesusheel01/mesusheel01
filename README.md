@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mesusheel01
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning cse
-- 💞️ I’m looking to collaborate on software projects
+- 👀 I love to code.
+- 🌱 I’m currently persuing CSE degree.
+- 💞️ I’m looking to collaborate on software projects.
 -  📫 How to reach me, my insta handel @me.susheel_01
 
 <!---
