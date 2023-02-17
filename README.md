@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mesusheel01
 - 👀 I enjoy coding.
-- 🌱 I’m currently persuing B.Tech CSE degree.
+- 🌱 I’m currently persuing B.Tech CSE degree(will be completed in 2025).
 - 📚 I desire to learn how much I can in my coding journey. 
 -  📫 How to reach me, my insta handel @me.susheel_01
 
