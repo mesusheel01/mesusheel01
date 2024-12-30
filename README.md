@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">- 🔭 I’m currently working on a new project which is Cognito : a space to put your stuff that you want to access daily! Repo with same name has all my codes.<br><br>- 🌱 I’m currently searching for web development job and learning by building projects.<br><br>- 👯 I’m looking to collaborate on any interesting project.<br><br>- 👨‍💻 All of my projects are available here!<br><br>- 📫 How to reach me? Scroll more😊</h6>
+<h5 align="left">- 🔭 I’m currently working on a new project which is Cognito : a space to put your stuff that you want to access daily! Repo with same name has all my codes.<br><br>- 🌱 I’m currently searching for web development job and learning by building projects.<br><br>- 👯 I’m looking to collaborate on any interesting project.<br><br>- 👨‍💻 All of my projects are available here!<br><br>- 📫 How to reach me? Scroll more😊</h6>
 
 ###
 
