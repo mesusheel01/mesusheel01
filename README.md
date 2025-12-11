@@ -1,13 +1,41 @@
-<h2 align="left">Hi 👋! My name is Susheel Rai and I'm a passionate full stack developer 👨🏻‍💻, raised in India U.P</h2>
+<h2 align="left">Hi 👋, I'm Susheel Rai — a passionate Full Stack Developer from India 🇮🇳</h2>
 
-###
+###  
+<h4 align="left">
+I build clean, scalable, production-ready web applications using the MERN stack and modern tools.  
+My focus: **Building impactful products, writing clean code, and constantly leveling up.**  
+</h4>
 
-<h5 align="left">- 🔭 I’m currently working on a new project which is Cognito : a space to put your stuff that you want to access daily! Repo with same name has all my codes.<br><br>- 🌱 I’m currently searching for web development job and learning by building projects.<br><br>- 👯 I’m looking to collaborate on any interesting project.<br><br>- 👨‍💻 All of my projects are available here!<br><br>- 📫 How to reach me? Scroll more😊</h6>
+---
 
-###
+### 🚀 About Me  
+- 🔭 Currently building a **SaaS product** and exploring system design & backend performance.  
+- 👯 Open to collaborating on **MERN, Next.js, AI-integrated apps**, or any meaningful project.  
+- 💡 I love solving real-world problems by turning ideas into fully functional applications.  
+- 📚 Always learning — currently exploring **cloud deployments, microservices & advanced React patterns**.  
+- 👨‍💻 All my projects are available on my GitHub — feel free to explore!  
+- 📫 Reach me anytime: **me.susheelrai@gmail.com**
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mesusheel01/count.svg?"  />
+---
+
+### 🛠️ Tech Stack & Tools  
+<div align="left">
+
+**Frontend:**  
+React.js • Next.js • Redux Toolkit • TailwindCSS • Material UI
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT • WebSockets
+
+**Databases:**  
+MongoDB • PostgreSQL • MySQL
+
+**DevOps & Tools:**  
+Docker • Git/GitHub • Prisma • Postman • CI/CD Pipelines  
+
+**Other:**  
+Socket.IO • OpenAI API • Cloud Deployment • Agile
+
 </div>
 
 ###
