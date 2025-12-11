@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Susheel Rai — a passionate Full Stack Developer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋, I'm Susheel Rai — a passionate Full Stack Developer | MERN Stack | React | Node.js | Next.js from India 🇮🇳</h2>
 
 ###  
 <h4 align="left">
