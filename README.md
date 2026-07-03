@@ -81,7 +81,7 @@ React • TypeScript • Node.js • Express • MongoDB • Docker
 - Dockerized Monorepo
 
 🔗 Live Demo:
-https://cognito-client-lilac.vercel.app
+https://learnversee.vercel.app
 
 ---
 
