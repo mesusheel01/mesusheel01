@@ -1,102 +1,251 @@
-<h2 align="left">Hi 👋, I'm Susheel Rai — a passionate Full Stack Developer | MERN Stack | React | Node.js | Next.js from India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Susheel Rai</h1>
 
-###  
-<h4 align="left">
-I build clean, scalable, production-ready web applications using the MERN stack and modern tools.  
-My focus: **Building impactful products, writing clean code, and constantly leveling up.**  
-</h4>
+<h3 align="center">
+Software Engineer • Full Stack Developer • Backend Enthusiast • AI-powered Applications
+</h3>
+
+<p align="center">
+I enjoy turning ideas into products that solve real problems.
+From scalable backend systems to AI-powered web applications, I love building software that people can actually use.
+</p>
+
+<p align="center">
+
+<a href="mailto:me.susheelrai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/susheel-rai-3b7a51227/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/mesusheel01">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently building a **SaaS product** and exploring system design & backend performance.  
-- 👯 Open to collaborating on **MERN, Next.js, AI-integrated apps**, or any meaningful project.  
-- 💡 I love solving real-world problems by turning ideas into fully functional applications.  
-- 📚 Always learning — currently exploring **cloud deployments, microservices & advanced React patterns**.  
-- 👨‍💻 All my projects are available on my GitHub — feel free to explore!  
-- 📫 Reach me anytime: **me.susheelrai@gmail.com**
+# 🚀 About Me
+
+- 💼 Software Engineer with professional experience building automation systems at **PRISM (formerly OYO)**.
+- 🚀 Built multiple production-style full-stack applications using **React, Next.js, Node.js, PostgreSQL, MongoDB, Docker, and OpenAI APIs**.
+- 🤖 Passionate about building AI-powered products rather than simple AI demos.
+- 🏗️ Interested in Backend Engineering, System Design, Scalable APIs, and Cloud Technologies.
+- 🌱 Currently learning **Redis, Microservices, AWS, and Distributed Systems.**
+- 🎯 Goal: Build software used by thousands (and eventually millions) of users.
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-<div align="left">
+# ⭐ Featured Projects
 
-**Frontend:**  
-React.js • Next.js • Redux Toolkit • TailwindCSS • Material UI
+## 🚀 Daycraft AI
 
-**Backend:**  
-Node.js • Express.js • REST APIs • JWT • WebSockets
+AI-powered productivity platform that converts natural language into structured schedules using GPT-4o.
 
-**Databases:**  
-MongoDB • PostgreSQL • MySQL
+### Built With
 
-**DevOps & Tools:**  
-Docker • Git/GitHub • Prisma • Postman • CI/CD Pipelines  
+Next.js • TypeScript • PostgreSQL • Prisma • NextAuth • OpenAI API
 
-**Other:**  
-Socket.IO • OpenAI API • Cloud Deployment • Agile
+### Highlights
 
-</div>
+- Google & GitHub OAuth
+- AI Prompt Builder
+- AI Schedule Generator
+- CRUD Task Management
+- Protected Routes
+- Session Management
+- Responsive UI
 
-###
+🔗 Live Demo:
+https://daycraft-ai.vercel.app
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+---
 
-###
+## 🧠 Cognito
 
-<br clear="both">
+An AI-powered Second Brain that stores documents, videos, tweets, audio and web resources in one searchable workspace.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesusheel01&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+### Built With
 
-###
+React • TypeScript • Node.js • Express • MongoDB • Docker
 
-<div align="center">
-  <a href="https://instagram.com/me.susheel_01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="SushDevLife" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="me.susheelrai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="linkedin.com/in/susheel-rai-3b7a51227" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SusheelRai58945" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+### Highlights
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesusheel01/mesusheel01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesusheel01/mesusheel01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+- JWT Authentication
+- Zod Validation
+- AI Summarization
+- Live Search
+- Content Classification
+- Dockerized Monorepo
+
+🔗 Live Demo:
+https://cognito-client-lilac.vercel.app
+
+---
+
+## 🎓 LearnVerse
+
+A role-based learning platform where instructors publish courses and students discover and enroll.
+
+### Built With
+
+React • Node.js • Express • MongoDB • JWT • Cloudinary
+
+### Highlights
+
+- Instructor Dashboard
+- Student Dashboard
+- Course Marketplace
+- Authentication
+- Live Search
+- Responsive UI
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+TypeScript • JavaScript • Python • C++ • SQL
+
+---
+
+## Frontend
+
+React.js
+
+Next.js
+
+Tailwind CSS
+
+Material UI
+
+Recoil
+
+---
+
+## Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+JWT
+
+NextAuth
+
+OAuth
+
+Zod
+
+---
+
+## Databases
+
+PostgreSQL
+
+MongoDB
+
+Prisma ORM
+
+Mongoose
+
+---
+
+## AI
+
+OpenAI API
+
+GPT-4o
+
+Prompt Engineering
+
+---
+
+## DevOps & Tools
+
+Docker
+
+Git
+
+GitHub
+
+Linux
+
+Vercel
+
+Turborepo
+
+Postman
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=mesusheel01&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=mesusheel01&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Redis
+- System Design
+- Microservices
+- AWS
+- Docker Compose
+- CI/CD
+- Distributed Systems
+
+---
+
+# 💭 Engineering Philosophy
+
+> Clean code scales.
+
+> Great products solve real problems.
+
+> Every project should teach something new.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:me.susheelrai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/susheel-rai-3b7a51227/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://x.com/SusheelRai58945">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mesusheel01/mesusheel01/output/github-snake-dark.svg"/>
+
+</p>
