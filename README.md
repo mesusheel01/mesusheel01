@@ -102,8 +102,6 @@ React • Node.js • Express • MongoDB • JWT • Cloudinary
 - Live Search
 - Responsive UI
 
-🔗 Live Demo:
-https://learnversee.vercel.app
 ---
 
 # 🛠 Tech Stack
